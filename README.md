@@ -86,7 +86,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `nctcstem`, `nctcstem.github.io`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `nctcstem.github.io`, `Website for NCTC STEM club!`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `twitter_handle`, `linkedin_username`, `email_client`, `email`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/nctcstem/nctcstem.github.io">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">nctcstem.github.io</h3>

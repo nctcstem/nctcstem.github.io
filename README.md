@@ -79,7 +79,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[View The Website!](https://nctcstem.github.io/)
 
 
 <!-- GETTING STARTED -->

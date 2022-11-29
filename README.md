@@ -40,7 +40,7 @@
   <p align="center">
     Website for NCTC STEM club!
     <br />
-    <a href="https://github.com/nctcstem/nctcstem.github.io"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/nctcstem/nctcstem.github.io/Pages"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/nctcstem/nctcstem.github.io">View Demo</a>

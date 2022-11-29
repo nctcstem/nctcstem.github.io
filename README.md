@@ -31,7 +31,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/nctcstem/nctcstem.github.io/Pages">
+  <a href="https://github.com/nctcstem/nctcstem.github.io">
     <img src="images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 

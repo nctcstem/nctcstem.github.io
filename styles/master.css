@@ -1,0 +1,49 @@
+/* MASTER CSS STYLES */
+/* nctcstem.github.io/styles/master.css */
+* {
+    text-align: center
+}
+body { 
+    background-color: rgb(130, 200, 224);    
+}
+
+h1{
+    text-align: center;
+    padding-top: 20px;
+    font-family: monospace;
+}
+
+h2{
+    font-family: monospace;
+}
+
+p{
+    font-family: monospace;
+}
+
+.header_footer{
+    text-align: center;
+    font-family: monospace;
+}
+
+.page_content{ 
+    text-align: center;
+    font-family: monospace;
+}
+
+div.contacts_container{
+    display: table;
+    vertical-align:middle;
+}
+
+li.contacts_list{
+    vertical-align:middle;
+    display: table-cell;
+    font-family: monospace; 
+}
+div.meeting{
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+    font-family: monospace; 
+}

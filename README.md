@@ -79,7 +79,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[View The Website!](https://nctcstem.github.io/Pages)
+[View The Website!](https://nctcstem.github.io/)
 
 
 <!-- GETTING STARTED -->

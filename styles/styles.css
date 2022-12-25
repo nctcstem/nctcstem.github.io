@@ -11,29 +11,48 @@ body {
     text-align: center;
   }
 
-  div.row:after
+
+  div.row0:after
   {
     content: "";
     display: flex;
     clear: both;
+
+    
   }
 
-  .column.right {
+  div.row1:after
+  {
+    content: "";
+    display: flex;
+    clear: both;
+    
+  }
+
+  
+
+  .column.bottom {
     float: left;
     padding-right: 0px;
-    width: 70%;
-    margin: 1%;
+    width: 100%;
+    margin: 0%;
     font-size: 75%;
+    text-align: center;
+
     background-color: #9bd7d1;
   }
   
 
   
   /* Middle column */
-  .column.middle {
-    float: left;
-    width: 70%;
-    margin: 1%;
+
+  .column.top {
+    float: center;
+    text-align: center;
+    justify-content:center;
+    width: 100%;
+    margin: 0%;
+
     font-size: 75%;
     background-color: #9bd7d1;
   }
@@ -51,28 +70,37 @@ body {
     
     background-color: #9bd7d1;
     display: flex;
-    justify-content:center;
+
+    justify-content:left;
     align-items: center;
-    padding:3%;
+    padding:2vh;
     font-family: monospace;
-    font-size: 150%;
+    font-size: 160%;
+    overflow: hidden;
+
   }
   nav ul {
     
     list-style: none;
     margin: 0%;
+
+    padding: 0%;
+
     padding: 0;
+
     display: flex;
   }
   nav li {
     
-    margin: 2% 0%;
+
+    margin: 0vh 0%;
     
   }
   nav a {
     
     color: #305d7a;
-    padding: 18px 10px;
+    padding: 40px 1vh;
+
     text-decoration: none;
   }
   nav a:hover {
@@ -83,7 +111,9 @@ body {
     
   }
   main {
-    padding: 75px;
+
+    padding: 5vh;
+
     
   }
   h3 {
@@ -100,5 +130,79 @@ body {
 
   div.foot.text{
     text-align:center;
+    
+
+  }
+
+  ul.contact.info
+  {
+    list-style:none;
+    font-family: monospace;
+    font-weight:bolder;
+    
+    
+  }
+
+  li.insta
+  {
+    padding: 1vh;
+
+  }
+
+  li.facebook
+  {
+    padding: 1vh;
+  }
+
+  li.email
+  {
+    padding: 1vh;
+  }
+
+  a.facebook:hover{
+    color: #f9a36c;
+  }
+
+  a.insta:hover{
+    color: #f9a36c;
+  }
+
+  a.facebook:visited{
+    text-decoration: none;
+  }
+
+  a.insta:visited{
+    text-decoration: none;
+  }
+
+  a.facebook:link, a.facebook:visited {
+    background-color: #305d7a;;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+  }
+  
+  a.facebook:link, a.facebook:hover  {
+    background-color: #f9a36c;
+    color: inherit;
+    
+  }
+
+  a.insta:link, a.insta:visited {
+    background-color: #305d7a;;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+  }
+  
+  a.insta:link, a.insta:hover  {
+    background-color: #f9a36c;
+    color: inherit;
     
   }

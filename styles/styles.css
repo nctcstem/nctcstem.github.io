@@ -26,7 +26,8 @@ body {
     content: "";
     display: flex;
     clear: both;
-    
+ 
+ 
   }
 
   
@@ -38,7 +39,6 @@ body {
     margin: 0%;
     font-size: 75%;
     text-align: center;
-
     background-color: #9bd7d1;
   }
   
@@ -52,7 +52,6 @@ body {
     justify-content:center;
     width: 100%;
     margin: 0%;
-
     font-size: 75%;
     background-color: #9bd7d1;
   }
@@ -70,7 +69,7 @@ body {
     
     background-color: #9bd7d1;
     display: flex;
-
+    
     justify-content:left;
     align-items: center;
     padding:2vh;
@@ -91,7 +90,6 @@ body {
     display: flex;
   }
   nav li {
-    
 
     margin: 0vh 0%;
     
@@ -114,7 +112,6 @@ body {
 
     padding: 5vh;
 
-    
   }
   h3 {
     font-size: 18px;
